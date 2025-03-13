@@ -691,6 +691,7 @@ algorithms, knowledgebase and AI technology.
 * [SEOTools for Excel](http://seotoolsforexcel.com)
 * [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
 * [SmallSEOTools](http://smallseotools.com)
+* [Seostrix](http://seostrix.com) - Top #1 Free Seo Tools by Seostrix - Boost Rankings Fast, Simplify [Unit Converter](https://seostrix.com/unit-converter/), [Image Converter](https://seostrix.com/image-converter/), and [PDF to Excel Converter](https://seostrix.com/pdf-to-excel-converter/) tools for seamless productivity
 * [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 * [StatsCrop](http://www.statscrop.com)
 * [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
